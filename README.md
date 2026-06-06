@@ -92,3 +92,7 @@ Terminal တွင် `Ctrl + C` ကို နှိပ်ပါ။
 
 ဤ script ကို MIT လိုင်စင်အောက်တွင် ရရှိနိုင်ပါသည်။
 
+# Telegram
+https://my.telegram.org › api
+Authorization - my.telegram.org
+(https://my.telegram.org/api)
